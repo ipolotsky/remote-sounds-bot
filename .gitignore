@@ -10,3 +10,4 @@ FB_CREDS_TEST.json
 FB_CREDS.json
 .env
 purchases.csv
+.DS_Store
